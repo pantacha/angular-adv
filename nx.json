@@ -10,5 +10,19 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "app": {
+      "tags": []
+    },
+    "app-e2e": {
+      "tags": [],
+      "implicitDependencies": ["app"]
+    },
+    "api-api": {
+      "tags": []
+    },
+    "shared": {
+      "tags": []
+    }
+  }
 }
