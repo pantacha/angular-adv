@@ -47,8 +47,8 @@
     "zone.js": "^0.10.2"
   },
   "devDependencies": {
-    "@nrwl/angular": "^9.0.0",
-    "@nrwl/nest": "^9.0.0",
+    "@nrwl/angular": "^15.4.2",
+    "@nrwl/nest": "^9.8.0",
     "@nrwl/workspace": "9.0.0",
     "@types/node": "~8.9.4",
     "dotenv": "6.2.0",
@@ -59,7 +59,7 @@
     "typescript": "~3.7.4",
     "@angular/compiler-cli": "9.0.0",
     "@angular/language-service": "9.0.0",
-    "@angular-devkit/build-angular": "0.900.1",
+    "@angular-devkit/build-angular": "15.0.4",
     "codelyzer": "~5.0.1",
     "jest-preset-angular": "8.0.0",
     "@nrwl/jest": "9.0.0",
@@ -67,8 +67,8 @@
     "@types/jest": "24.0.9",
     "ts-jest": "24.0.0",
     "cypress": "^3.8.2",
-    "@nrwl/cypress": "9.0.0",
-    "@nrwl/node": "9.0.0",
+    "@nrwl/cypress": "15.4.2",
+    "@nrwl/node": "9.8.0",
     "@nestjs/schematics": "^6.7.0",
     "@nestjs/testing": "^6.8.3"
   }
